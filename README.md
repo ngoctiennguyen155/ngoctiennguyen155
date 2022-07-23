@@ -8,7 +8,7 @@
 ngoctiennguyen155/ngoctiennguyen155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<img src="https://github.com/ljlm0402/ljlm0402/blob/images/avatar.gif?raw=true" width="200px" alt="agumon" />
 # BackEnd Developer
 ## stack
 - Javascript
