@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   - Reactjs
 - Database
   - MongoDB
-  - MySQL
+  - SQL
 - Devops
   - K8s
   - Docker
